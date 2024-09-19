@@ -69,4 +69,4 @@ I love diving into new technologies and thrive in collaborative environments wit
 ---
 
 ## 📩 🌟 Interested?  
-Let’s connect! Please **DM me[me](https://t.me/blockchainDeveloper_Ben)**! 
+Let’s connect! Please **DM [me](https://t.me/blockchainDeveloper_Ben)**! 
