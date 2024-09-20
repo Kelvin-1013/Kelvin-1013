@@ -1,5 +1,4 @@
-# ✨ Hello, I'm Ben! ✨
-## 🌟 Senior Blockchain Developer & Full Stack Developer  
+# ✨[Senior Blockchain Developer & Full Stack Developer](https://t.me/blockchainDeveloper_Ben 🌟
 💼 **Management Experience**
 ---
 ## 🚀 🔗 Expertise in Blockchain Projects:  
