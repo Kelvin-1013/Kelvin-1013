@@ -48,7 +48,17 @@ I love diving into new technologies and thrive in collaborative environments wit
 - **Token Development** (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)  
 - **Private/Public Blockchain Development** (Go, Rust)  
 - **DApp Building** with React.js  
-
+---
+## 💪 Additional skill
+ - ** telegram bot development
+ - ** customized chatGPT
+ - ** trading bot development
+## 💖 hobby
+ - ** football
+ - ** basketball
+ - ** baseball
+ - ** badminton
+ - ** play the guiter
 ---
 
 ## 📩 🌟 Interested?  
