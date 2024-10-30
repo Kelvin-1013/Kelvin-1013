@@ -60,6 +60,10 @@ I love diving into new technologies and thrive in collaborative environments wit
  - ** badminton **
  - ** play the guiter **
 ---
+[![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelvin-1013&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-1013&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
+
 
 ## 📩 🌟 Interested?  
 Let’s connect! Please **DM [me](https://t.me/blockchainDeveloper_Ben)**! 
