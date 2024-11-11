@@ -1,4 +1,4 @@
-# ✨[Blockchain Developer & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
+# ✨[Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
 💼 **Management Experience**
 ---
 ## 🚀 🔗 Expertise in Blockchain Projects:  
