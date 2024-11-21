@@ -15,7 +15,7 @@
 ## 🔍 My Approach:  
 I am committed to delivering **high-quality work** with a keen eye for detail, ensuring that every product is reliable and robust. 
 ## 🌈 Current Focus:  
-Exploring the innovative world of **cross-chain Polkadot**, a groundbreaking and in-demand technology!
+Exploring the innovative world of **solana arbitrage bot**, a groundbreaking and in-demand technology!
 ---
 ## 📚 Passionate Learner:  
 I love diving into new technologies and thrive in collaborative environments with fantastic team members. 
