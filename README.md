@@ -5,7 +5,7 @@
 - **solana trading bot**  
 - **telegram bot**  
 - **customized chatbot** 
-- ** E-commerce Bots**  
+- **E-commerce Bots**  
 - **AI-Powered Chatbots**  
 - **Workflow Automation Bots**  
 
