@@ -66,10 +66,7 @@ I love diving into new technologies and thrive in collaborative environments wit
 - **Private/Public Blockchain Development** (Go, Rust)  
 - **DApp Building** with React.js  
 ---
-## 💪 Additional skill
- - ** telegram bot development **
- - ** customized chatGPT **
- - ** trading bot development **
+
 ## 💖 hobby
  - ** football **
  - ** basketball **
