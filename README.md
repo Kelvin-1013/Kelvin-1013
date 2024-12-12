@@ -10,22 +10,12 @@
 - **Workflow Automation Bots**  
 
 🌐 Worked across diverse chains:  
-- **Ethereum (ERC)**  
-- **Binance Smart Chain (BSC)**  
-- **TRON (TRC)**  
-- **HECO**  
-- **Polygon (Matic)**  
-- **Solana**  
+- **Ethereum (ERC)**  - **Binance Smart Chain (BSC)**  - **TRON (TRC)**  - **HECO**  - **Polygon (Matic)**  - **Solana**  
 💹 **💎 DEX Development:**
 
 ## 🚀 🔗 Expertise in Blockchain Projects:  
 🌐 Worked across diverse chains:  
-- **Ethereum (ERC)**  
-- **Binance Smart Chain (BSC)**  
-- **TRON (TRC)**  
-- **HECO**  
-- **Polygon (Matic)**  
-- **Solana**  
+- **Ethereum (ERC)**  - **Binance Smart Chain (BSC)**  - **TRON (TRC)**  - **HECO**  - **Polygon (Matic)**  - **Solana**  
 💹 **💎 DEX Development:**  
 - Crafted various DEXs, including **Ether DEX**.
 ---
@@ -40,18 +30,12 @@ I love diving into new technologies and thrive in collaborative environments wit
 ## 💡 Here's How I Can Help You Achieve Your Goals:  
 ### 🌐 Web Development:
 - **Frontend:**  
-  - React.js / Next.js / GraphQL  
-  - Vue.js / Nuxt.js  
-  - Angular  
+  - React.js / Next.js / GraphQL    - Vue.js / Nuxt.js    - Angular
   - Ant Design, Tailwind, Material Design, Bootstrap  
 - **Backend:**  
-  - Node.js / Express.js / Nest.js  
-  - PHP / Laravel  
-  - Python / Django / Flask  
+  - Node.js / Express.js / Nest.js    - PHP / Laravel    - Python / Django / Flask  
 ### 🗄️ Databases:
-- MongoDB  
-- MySQL  
-- PostgreSQL  
+- MongoDB  - MySQL  - PostgreSQL  
 ### ☁️ Cloud Services:
 - AWS (Lambda, Amplify, EC2, ELB, S3, Cognito, DynamoDB)  
 ### 🔗 Blockchain Solutions:
@@ -68,11 +52,7 @@ I love diving into new technologies and thrive in collaborative environments wit
 ---
 
 ## 💖 hobby
- - ** football **
- - ** basketball **
- - ** baseball **
- - ** badminton **
- - ** play the guiter **
+ - ** football ** - ** basketball ** - ** baseball ** - ** badminton ** - ** play the guiter **
 ---
 
 ## 📩 🌟 Interested?  
