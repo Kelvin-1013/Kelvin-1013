@@ -1,6 +1,5 @@
 # ✨[Senior Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
-💼 **Management Experience**
-🚀 **Bot expert : **  - **solana trading bot**   ||  **telegram bot**  ||  **customized chatbot** || **E-commerce Bots**  ||  **AI-Powered Chatbots**  || **Workflow Automation Bots**  
+### 🚀 Bot expert :  - **solana trading bot**   ||  **telegram bot**  ||  **customized chatbot** || **E-commerce Bots**  ||  **AI-Powered Chatbots**  || **Workflow Automation Bots**  
 ### 🔗 Expertise in Blockchain Projects:  
 🌐 Worked across diverse chains:  
 -  **Solana**  || **Ethereum (ERC)**  || **Binance Smart Chain (BSC)**  || **TRON (TRC)**  || **HECO**  || **Polygon (Matic)**
@@ -19,7 +18,8 @@
 ### 💡 Project for quality improvement 
 [https://github.com/Kelvin-1013/crypto-presale-project-multi-theme-multi-language](https://crypto-presale-project-multi-theme-multi-language.vercel.app/) || [https://github.com/Kelvin-1013/learning-course](learning-course-plum.vercel.app)
 [https://github.com/Kelvin-1013/freelancing-platform](https://freelancing-platform-six.vercel.app/) || [https://github.com/Kelvin-1013/sass-platform-boilerplate](https://sass-platform-boilerplate.vercel.app/) ||
-[https://github.com/Kelvin-1013/fitness-platform](https://fitness-platform-seven.vercel.app) || []()
+[https://github.com/Kelvin-1013/fitness-platform](https://fitness-platform-seven.vercel.app) || []() 
+💼 **Management Experience**
 ### 📩 🌟 Interested?  
 Let’s connect! Please **DM [me](https://t.me/blockchainDeveloper_Ben)**! 
 (portfolio[coming soon])[]
