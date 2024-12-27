@@ -19,11 +19,12 @@ I love diving into new technologies and thrive in collaborative environments wit
   - Node.js / Express.js / Nest.js   || PHP / Laravel   || Python / Django / Flask   ### 🗄️ Databases:  - MongoDB  || MySQL  || PostgreSQL  
 ### ☁️ Cloud Services: - AWS (Lambda, Amplify, EC2, ELB, S3, Cognito, DynamoDB)  
 ### 🔗 Blockchain Solutions:
-- **Multichain Solution Provider** || **NFT Marketplace Development**  || **NFT Game Development**  || **DEX Development** ||  **Cryptocurrency Wallet Development** (Linux, Windows, Mac, Web)  || **ICO & IDO** || **Smart Contracts** (Solidity, Truffle, Hardhat)  || **Token Development** (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)   || **Private/Public Blockchain Development** (Go, Rust) || **DApp Building** with React.js  
+- **Multichain Solution Provider** || **NFT Marketplace Development**  || **NFT Game Development**  || **DEX Development** ||  **Cryptocurrency Wallet Development** (Linux, Windows, Mac, Web)  || **ICO & IDO** || **Smart Contracts** (Solidity, Truffle, Hardhat)  || **Token Development** (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)   || **Private/Public Blockchain Development** (Go, Rust) || **DApp Building** with React.js
 ## 💡 active project
 [Meme coin presale](https://app.tmonk.net) [customized no coding gpt](https://ollabot.com)  
 ## 💡 Project for quality improvement 
-[https://github.com/Kelvin-1013/crypto-presale-project-multi-theme-multi-language](https://crypto-presale-project-multi-theme-multi-language.vercel.app/) || []()
-
+[https://github.com/Kelvin-1013/crypto-presale-project-multi-theme-multi-language](https://crypto-presale-project-multi-theme-multi-language.vercel.app/) || [https://github.com/Kelvin-1013/learning-course](learning-course-plum.vercel.app)
+[]() || []() 
 ## 📩 🌟 Interested?  
 Let’s connect! Please **DM [me](https://t.me/blockchainDeveloper_Ben)**! 
+(portfolio[coming soon])[]
