@@ -11,7 +11,7 @@
 🔍 My Approach:  I am committed to delivering **high-quality work** with a keen eye for detail, ensuring that every product is reliable and robust.
 🌈 Current Focus:  Exploring the innovative world of **solana arbitrage bot**, a groundbreaking and in-demand technology!
 📚 Passionate Learner:  I love diving into new technologies and thrive in collaborative environments with fantastic team members. 
-### 🌐 Web Development:
+🌐 Web Development:
 - **Frontend:**    React.js / Next.js || GraphQL    - Vue.js / Nuxt.js    ||  Angular ,  - Ant Design || Tailwind ||  Material Design || Bootstrap  , wordpress 
 - **Backend:**   - Node.js / Express.js / Nest.js   || PHP / Laravel   || Python / Django / Flask   ### 🗄️ Databases:  - MongoDB  || MySQL  || PostgreSQL  
 ### ☁️ Cloud Services: - AWS (Lambda, Amplify, EC2, ELB, S3, Cognito, DynamoDB)  
