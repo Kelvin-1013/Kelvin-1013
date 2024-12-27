@@ -25,6 +25,7 @@ I love diving into new technologies and thrive in collaborative environments wit
 ## 💡 Project for quality improvement 
 [https://github.com/Kelvin-1013/crypto-presale-project-multi-theme-multi-language](https://crypto-presale-project-multi-theme-multi-language.vercel.app/) || [https://github.com/Kelvin-1013/learning-course](learning-course-plum.vercel.app)
 [https://github.com/Kelvin-1013/freelancing-platform](https://freelancing-platform-six.vercel.app/) || [https://github.com/Kelvin-1013/sass-platform-boilerplate](https://sass-platform-boilerplate.vercel.app/) 
+[https://github.com/Kelvin-1013/fitness-platform](https://fitness-platform-seven.vercel.app) || []()
 ## 📩 🌟 Interested?  
 Let’s connect! Please **DM [me](https://t.me/blockchainDeveloper_Ben)**! 
 (portfolio[coming soon])[]
