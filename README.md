@@ -1,10 +1,10 @@
 # ✨[Senior Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
 💼 **Management Experience**
 ## 🚀 Bot expert:  
-- **solana trading bot**  || **telegram bot**  || **customized chatbot** || **E-commerce Bots**  ||  **AI-Powered Chatbots**  || **Workflow Automation Bots**  
+- **solana trading bot**   ||  **telegram bot**  ||  **customized chatbot** || **E-commerce Bots**  ||  **AI-Powered Chatbots**  || **Workflow Automation Bots**  
 ## 🚀 🔗 Expertise in Blockchain Projects:  
 🌐 Worked across diverse chains:  
--  || **Solana**  || **Ethereum (ERC)**  || **Binance Smart Chain (BSC)**  || **TRON (TRC)**  || **HECO**  || **Polygon (Matic)**
+-  **Solana**  || **Ethereum (ERC)**  || **Binance Smart Chain (BSC)**  || **TRON (TRC)**  || **HECO**  || **Polygon (Matic)**
 💹 **💎 DEX Development:**
  Crafted various DEXs, including **Ether DEX**.
 ## 🔍 My Approach:  
