@@ -22,4 +22,4 @@
 💼 **Management Experience**
 ### 📩 🌟 Interested?  
 Let’s connect! Please **DM [me](https://t.me/blockchainDeveloper_Ben)**! 
-(portfolio[coming soon])[]
+(portfolio)[https://benjamintan-portfolio.vercel.app]
