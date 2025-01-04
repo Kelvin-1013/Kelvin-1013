@@ -1,7 +1,7 @@
-# ✨[Senior Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
+# ✨[Senior Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here 
 ### 🚀 Bot expert :  - **solana trading bot**   ||  **telegram bot**  ||  **customized chatbot** || **E-commerce Bots**  ||  **AI-Powered Chatbots**  || **Workflow Automation Bots**  
-### 🔗 Expertise in Blockchain Projects:  
-🌐 Worked across diverse chains:  
+### 🔗 Expertise in Blockchain Projects:   
+🌐 Worked across diverse chains:  [portfolio](https://benjamintan-portfolio.vercel.app)
 -  **Solana**  || **Ethereum (ERC)**  || **Binance Smart Chain (BSC)**  || **TRON (TRC)**  || **HECO**  || **Polygon (Matic)**
 - **Multichain Solution Provider** || **NFT Marketplace Development**  || **NFT Game Development**  || **DEX Development** ||  **Cryptocurrency Wallet Development** (Linux, Windows, Mac, Web)  || **ICO & IDO** || **Smart Contracts** (Solidity, Truffle, Hardhat)  || **Token Development** (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)   || **Private/Public Blockchain Development** (Go, Rust) || **DApp Building** with React.js
 💹 **💎 DEX Development:**
