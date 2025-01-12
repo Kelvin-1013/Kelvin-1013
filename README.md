@@ -1,4 +1,4 @@
-# ✨[Senior Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here 
+# ✨[Senior Blockchain & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈👉[portfolio](https://benjamintan-portfolio.vercel.app) 
 ### 🚀 Bot expert :  - **solana trading bot**   ||  **telegram bot**  ||  **customized chatbot** || **E-commerce Bots**  ||  **AI-Powered Chatbots**  || **Workflow Automation Bots**  
 ### 🔗 Expertise in Blockchain Projects:   
 🌐 Worked across diverse chains:  [portfolio](https://benjamintan-portfolio.vercel.app)
